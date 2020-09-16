@@ -1,2 +1,2 @@
 # TrafficLight
-Solution for JetBrains task
+Solution the task for selection for the JetBrains project 
