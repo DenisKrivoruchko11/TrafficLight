@@ -6,7 +6,6 @@ import tornadofx.addClass
 import tornadofx.circle
 import tornadofx.vbox
 
-
 class TrafficLightView : View() {
     override val root = vbox {
         addClass(TrafficLightStyle.mainBlock)
